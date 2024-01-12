@@ -24,3 +24,6 @@ Focused on improving salient landmark features within an end-to-end system, the 
 ## Experimentation
 
 - Applied the methodology on the Room-to-Room dataset from the Matterport3D project for navigation through pictures of rooms in houses.
+
+## ⚠️ Important Note
+"corefs_R2R.ipynb" file missing (too big).
